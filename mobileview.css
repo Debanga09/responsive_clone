@@ -1,0 +1,21 @@
+#navbar {
+  flex-direction: column;
+}
+#navbar ul li {
+  margin-left: 60px;
+  margin-bottom: 15px;
+}
+.h-primary {
+  margin-top: 280px;
+}
+#home input {
+  margin-bottom: 100px;
+  transform: scale(0.8);
+  margin-left: 170px;
+  margin-right: 0px;
+}
+#home button {
+  transform: scale(0.7);
+  margin-right: 100px;
+  margin-bottom: 120px;
+}
